@@ -1,2 +1,4 @@
 # BeginAgain
-Sometestformyself
+ 
+###Learning Markdown writing rules
+
